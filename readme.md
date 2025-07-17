@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/emzimmer-server-wp-mcp-badge.png)](https://mseep.ai/app/emzimmer-server-wp-mcp)
+
 # WordPress MCP Server
 [![smithery badge](https://smithery.ai/badge/server-wp-mcp)](https://smithery.ai/server/server-wp-mcp)
 
